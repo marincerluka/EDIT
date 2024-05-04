@@ -1,0 +1,45 @@
+{
+    "udruge": [
+      {
+        "id": 1,
+        "naziv": "Udruga za zaštitu prirode",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwsnJEVII-J082PDiVKdH3bE9mkj5w36072Fb__pMng&s"
+      },
+      {
+        "id": 2,
+        "naziv": "Udruga za socijalnu pomoć",
+        "logo": "https://samohrani.com/wp-content/uploads/2019/11/eu-logo.png"
+      }
+    ],
+    "volonteri": [
+      {
+        "id": 1,
+        "ime": "Marko",
+        "prezime": "Marković",
+        "slika": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 2,
+        "ime": "Ana",
+        "prezime": "Anić",
+        "slika": "https://via.placeholder.com/150"
+      }
+    ],
+    "aktivnosti": [
+      {
+        "id": 1,
+        "naziv": "Čišćenje parka",
+        "mjesto": "Park Maksimir",
+        "vrijeme": "10:00 - 12:00",
+        "organizator": "Udruga za zaštitu prirode"
+      },
+      {
+        "id": 2,
+        "naziv": "Pomoć u domu za starije",
+        "mjesto": "Dom za starije i nemoćne osobe",
+        "vrijeme": "14:00 - 16:00",
+        "organizator": "Udruga za socijalnu pomoć"
+      }
+    ]
+  }
+  

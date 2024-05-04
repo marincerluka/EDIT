@@ -1,0 +1,34 @@
+.aktivnosti-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
+  .aktivnost {
+    background-color: #7a6060;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .aktivnost h3 {
+    margin-top: 0;
+  }
+  
+  .aktivnost p {
+    margin: 5px 0;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  

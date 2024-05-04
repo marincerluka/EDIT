@@ -1,0 +1,32 @@
+.udruge {
+    text-align: center;
+  }
+  
+  .udruge h2 {
+    margin-bottom: 20px;
+  }
+  
+  .udruge ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .udruge li {
+    display: inline-block;
+    margin: 10px;
+  }
+  
+  .udruge img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid #007bff;
+  }
+  
+  .udruge span {
+    display: block;
+    margin-top: 5px;
+    font-weight: bold;
+  }
+  

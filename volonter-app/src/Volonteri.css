@@ -1,0 +1,33 @@
+.volonteri {
+    text-align: center;
+  }
+  
+  .volonteri h2 {
+    margin-bottom: 20px;
+  }
+  
+  .volonteri ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .volonteri li {
+    display: inline-block;
+    margin: 10px;
+  }
+  
+  .volonteri img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid #007bff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  .volonteri span {
+    display: block;
+    margin-top: 5px;
+    font-weight: bold;
+  }
+  
